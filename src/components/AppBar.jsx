@@ -31,10 +31,6 @@ const AppBar = () => {
       >
         <AppBarTab title='Repositories' to='/repositories' />
         <AppBarTab title='SignIn' to='/signIn' />
-        <AppBarTab title='SignIn' to='/signIn' />
-        <AppBarTab title='SignIn' to='/signIn' />
-        <AppBarTab title='SignIn' to='/signIn' />
-        <AppBarTab title='SignIn' to='/signIn' />
       </ScrollView>
     </View>
   );
